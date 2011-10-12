@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">RSS Reader</string>
+	<string name="post_webview">WebView</string>
+    <string name="feeds_label">FEEDS</string>
+    <string name="posts_label">POSTS</string>
+    <string name="no_feeds">No Feeds Yet</string>
+    <string name="no_posts">No Posts</string>
+    <string name="menu_feed_insert">Add Feed</string>
+    <string name="menu_feed_delete">Delete Feed</string>
+    <string name="menu_refresh_all">Refresh</string>
+    <string name="feed_url">URL</string>
+    <string name="feed_title">Title</string>
+    <string name="insert_feed">Insert Feed</string>
+    <string name="confirm">Add</string>
+    <string name="search_hint">Search posts</string>
+    <string name="search">Search</string>
+    <string name="menu_post_share">Share</string>
+    <string name="menu_post_mark">Mark as unread</string>
+    <string name="context_menu_post_mark">Mark as read/unread</string>
+    <string name="menu_post_browser">Open in browser</string>
+</resources>
